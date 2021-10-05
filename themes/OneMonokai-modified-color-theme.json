@@ -80,7 +80,8 @@
       "name": "Comment",
       "scope": [
         "comment",
-        "string.comment"
+        "string.comment",
+        "string.quoted.docstring"
       ],
       "settings": {
         "foreground": "#676f7d"

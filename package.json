@@ -1,9 +1,9 @@
 {
-    "name": "one-monokai",
-    "displayName": "One Monokai Theme",
-    "description": "A cross between Monokai and One Dark theme",
+    "name": "one-monokai-modified",
+    "displayName": "One Monokai Modified Theme",
+    "description": "A cross between Monokai and One Dark theme, with a couple of changes",
     "version": "0.5.0",
-    "publisher": "azemoh",
+    "publisher": "charlesharries",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -14,26 +14,26 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai",
+                "label": "One Monokai Modified",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokai-color-theme.json"
+                "path": "./themes/OneMonokai-modified-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/azemoh/vscode-one-monokai.git"
+        "url": "https://github.com/charlesharries/vscode-one-monokai.git"
     },
     "bugs": {
-        "url": "https://github.com/azemoh/vscode-one-monokai/issues"
+        "url": "https://github.com/charlesharries/vscode-one-monokai/issues"
     },
-    "homepage": "https://github.com/azemoh/vscode-one-monokai/blob/master/README.md",
+    "homepage": "https://github.com/charlesharries/vscode-one-monokai/blob/master/README.md",
     "keywords": [
         "Vscode",
         "Theme",
         "Onedark",
         "Monokai"
     ],
-    "author": "Joshua Azemoh <joshazemoh@gmail.com> (http://azemoh.com)",
+    "author": "Charles harries <charles@harries.com> (http://charlesharri.es)",
     "license": "MIT"
 }
